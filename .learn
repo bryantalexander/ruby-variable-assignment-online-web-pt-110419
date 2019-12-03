@@ -4,4 +4,8 @@ tags:
 languages:
   - ruby
 resources: 2
+run : variable.rb
+
+
+
 
